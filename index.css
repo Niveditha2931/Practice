@@ -2,3 +2,8 @@ p{
     color: aqua;
     text-align: end;
 }
+
+h1{
+    text-shadow: 5px;
+    color: blue;
+}
